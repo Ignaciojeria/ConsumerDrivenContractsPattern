@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-manager.iml" filepath="$PROJECT_DIR$/.idea/modules/account-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-manager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/account-manager_main.iml" group="account-manager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-manager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/account-manager_test.iml" group="account-manager" />
+    </modules>
+  </component>
+</project>
